@@ -6,10 +6,10 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Transform Airport Data with Pyspark</h3>
+  <h3 align="center">PySpark Word Count</h3>
 
   <p align="center">
-    Use Pyspark for transforming Airport data to Airport in Thailand data.
+    Use PySpark to count word in text file.
     <br />
     <br />
     <a href="https://github.com/BankNatchapol/PySpark-Word-Count/issues">Report Bug</a>
